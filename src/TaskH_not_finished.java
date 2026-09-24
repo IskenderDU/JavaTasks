@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class TaskH_not_finished {
     public static void main(String[] args) {
         Scanner in = new Scanner (System.in);
         int n = in.nextInt();
